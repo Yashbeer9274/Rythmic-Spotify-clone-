@@ -1,0 +1,23 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:30px;
+}
+
+.navbar {
+    background: transparent;
+    color: white;
+}
+.navbar > form > h4 {
+    font-size: 20px;
+}
+
+.AccountCircleIcon{
+    float: right;
+    margin-left: 30vw;
+}
+
+.navbar > form > input {
+    /* display:absolute; */
+    size: 10vw !important;
+}

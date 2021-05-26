@@ -1,0 +1,27 @@
+.sidebar{
+    height: 100vh;
+    flex: 0.2;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    min-width: 230px;
+    height: 100vh;
+    background-color: #040404;
+}
+.sidebar_title{
+    margin-left:10px;
+    padding: 5px;
+    font-size:20px;
+}
+
+.main_logo {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    width: 15vw;
+
+}
+
+.rythemic {
+    font-size: 30px;
+    color:rgb(89, 151, 223);
+}

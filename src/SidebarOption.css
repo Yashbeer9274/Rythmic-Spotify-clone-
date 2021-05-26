@@ -1,0 +1,26 @@
+.sidebarOption{
+    color: grey;
+    /* height:40px; */
+    cursor: pointer;
+    transition: 200ms color ease-in;
+}
+.sidebar > hr{
+    border: 1px solid white;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.sidebarOption:hover {
+    color: white;
+}
+
+.sidebarOption > p{
+    margin-top:10px;
+    margin-left:20px;
+    font-size:16px;
+    /* color:grey; */
+}
+
+#cc:focus{
+    color: white;
+}

@@ -1,0 +1,47 @@
+/* .row{
+} */
+.carousel_back{
+    background: linear-gradient(transparent, rgba(0, 0, 0, 1));
+    background-color: #23395d;
+    height:100vh;
+    margin-bottom: 0%;
+}
+.carousel_img{
+    width: 30vw;
+    height: 60vh;
+    /* margin-left: 8vw; */
+    margin-top: 5px;
+}
+.R_logo {
+    height: 100px;
+    width: auto;
+    margin-left: 0px !important;
+}
+.R_logo_right {
+    height: 250px;
+    width: auto;
+    margin-left: 0px !important;
+}
+.footer_text{
+    color:white;
+    margin-top: +80px;
+    /* margin-left: 20vw; */
+}
+.input_username {
+    margin-top: 15vh;
+    margin-bottom: 20px;
+    width: 40vw;
+}
+.social_icon {
+    margin:30px;
+    margin-top:70px;
+}
+.social_icon:hover{
+    transition: transform 0.2s ease-in-out;
+    transform: scale(1.2) !important;
+}
+span.rest{
+    color:#ec0062;
+    font-size:80px;
+    margin:0px;
+}
