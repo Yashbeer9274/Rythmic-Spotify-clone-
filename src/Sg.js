@@ -1,7 +1,7 @@
 // LOGIN AUTHORIZATION BY SPOTIFY
 export const authEndPoint = "https://accounts.spotify.com/authorize";
 
-const redirectUri = "http://localhost:3000/";
+const redirectUri = "https://wizardly-bartik-65166f.netlify.app/";
 const clientID = "8fe2de47a29f4c01ba085e48f0e29b67";
 
 // SCOPES/FEATURES YOU WANT FROM SPOTIFY
